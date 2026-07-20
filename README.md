@@ -82,6 +82,7 @@ public/           Static assets
 - [Application architecture](docs/architecture.md)
 - [Database design](docs/database-design.md)
 - [AWS architecture](docs/aws-architecture.md)
+- [AWS PDF splitter deployment checklist](docs/aws-pdf-splitter-checklist.md)
 - [Security and privacy](docs/security.md)
 - [Product roadmap](docs/roadmap.md)
 - [Pricing strategy](docs/pricing.md)
