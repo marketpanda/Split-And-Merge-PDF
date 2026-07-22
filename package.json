@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:pdf-splitter": "esbuild workers/pdf-splitter/src/handler.ts --bundle --platform=node --target=node22 --format=cjs --outfile=dist/pdf-splitter/handler.js",
     "start": "next start",
     "lint": "eslint"
   },
